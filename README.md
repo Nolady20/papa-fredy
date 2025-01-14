@@ -1,5 +1,5 @@
 # papa-fredy
 Primer repo creado por mi
 
-##descripcion
+## descripcion
 Este es un repo de nolady, creado para entender este curso
